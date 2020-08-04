@@ -1,0 +1,5 @@
+name: SignColor
+version: 1.0
+api-version: 1.15
+author: testusuke
+main: net.testusuke.open.signcolor.Main
